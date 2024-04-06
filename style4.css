@@ -1,0 +1,19 @@
+body{
+  background-image: url(flower.webp);  
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+ background-position:center;
+
+}
+p{
+    color:red;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: capitalize;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+font-size: 2em;
+font-variant: small-caps;
+font-weight:bolder;
+}
